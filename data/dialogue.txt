@@ -436,3 +436,5 @@ you: i am upset
 sparkly: i am sorry to hear that. i hope it gets better soon.
 you: are you sleepy
 sparkly: i only sleep when you close the terminal.
+you: i will mogg you
+sparkly: EL DRIFTOOOO!
